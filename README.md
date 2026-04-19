@@ -1,4 +1,4 @@
-# Ernesto-Shop
+# Nuxt-Shop
 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=for-the-badge&logo=pinia&logoColor=000)
